@@ -1,0 +1,19 @@
+  body {
+    background-color: #3EC1D3;
+  }
+
+  hr {
+    border-style: dotted none none;
+    width: 5%;
+    border-width: 5px;
+    border-color: #F6F7D7;
+  }
+
+  h1 {
+    color: #FF9A00;
+    font-family: Papyrus, Arial, Georgia;
+  }
+
+  h3 {
+    color: #FF165D;
+  }
