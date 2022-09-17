@@ -1,0 +1,35 @@
+/*********************************** Type SELECTORS ***********************************/
+
+
+
+body{
+margin: 0;
+}
+
+h1{
+  margin-top: 0;
+  color: #4ab19a;
+}
+
+
+
+/*********************************** Class SELECTORS ***********************************/
+
+.top_container{
+    background-color: #e0ebe8;
+
+}
+
+.middle_container{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
+
+.bottom_container{
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+}
+
+/*********************************** ID SELECTORS ***********************************/
